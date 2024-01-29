@@ -1,4 +1,4 @@
-# Webhooks Inspector
+# HookScope
 
 ## Overview
 An application view and analyze the output of your webhooks by exposing an API endpoint that will record all relevant data
@@ -107,4 +107,3 @@ Our API supports the following endpoints:
   }
 ```
 **Method**: `ALL - /record/:binId`  
-# webhooks-inspector
